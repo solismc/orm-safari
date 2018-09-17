@@ -1,0 +1,11 @@
+/Users/manuelsolis/suncoast/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.deps.json
+/Users/manuelsolis/suncoast/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.runtimeconfig.json
+/Users/manuelsolis/suncoast/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.runtimeconfig.dev.json
+/Users/manuelsolis/suncoast/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.dll
+/Users/manuelsolis/suncoast/week-9/orm-safari/bin/Debug/netcoreapp2.1/orm-safari.pdb
+/Users/manuelsolis/suncoast/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.csprojAssemblyReference.cache
+/Users/manuelsolis/suncoast/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.csproj.CoreCompileInputs.cache
+/Users/manuelsolis/suncoast/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.AssemblyInfoInputs.cache
+/Users/manuelsolis/suncoast/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.AssemblyInfo.cs
+/Users/manuelsolis/suncoast/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.dll
+/Users/manuelsolis/suncoast/week-9/orm-safari/obj/Debug/netcoreapp2.1/orm-safari.pdb
